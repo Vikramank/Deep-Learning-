@@ -1,3 +1,3 @@
 # Deep-Learning-
-Deep learning algorithms in Python. To have a better understanding of how deep learning works, I am sharing all my codes here.
-I have used theano framework.
+Deep learning algorithms coded in TensorFlow with Python API. All codes here are supplementary to my video lecture series "
+Mastering deep learning with TensorFlow"   
