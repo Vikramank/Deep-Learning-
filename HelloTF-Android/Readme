@@ -1,1 +1,7 @@
 All the associated files that are discussed in my lecture
+
+Link to TF-Android libraries (I chose build #44) : https://ci.tensorflow.org/view/Nightly/job/nightly-android/
+
+Some good tutorials 
+1) https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html
+2) https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc?gi=ef10a54a6fc0
