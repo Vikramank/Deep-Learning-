@@ -49,7 +49,7 @@ loss = tf.reduce_mean(tf.square(Y_pred -Y ))
 #training algorithm
 optimizer = tf.train.GradientDescentOptimizer(0.05).minimize(loss)
 #initializing the variables
-init = tf.initialize_all_variables()
+init = tf.global_variables_initializer()
 
 #starting the session session 
 sess = tf.Session()
